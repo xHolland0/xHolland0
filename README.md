@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/xholland"><img src="https://api.daily.dev/devcards/e4b7cbf425504219b1932306c5e0c867.png?r=pia" width="180" alt="Yusuf Okan Çevik's Dev Card"/></a>
+<a href="https://app.daily.dev/xholland"><img style="float=right" src="https://api.daily.dev/devcards/e4b7cbf425504219b1932306c5e0c867.png?r=pia" width="200" alt="Yusuf Okan Çevik's Dev Card"/></a>
 
 
 
