@@ -1,3 +1,7 @@
+<a href="https://app.daily.dev/xholland"><img src="https://github.com/rebelchris/rebelchris/blob/main/devcard.svg" width="400" alt="xHolland's Dev Card"/></a>
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on [CevrimiciKitapKulubu](https://github.com/cevrimicikitapkulubu/OnlineBookClub) <br><br>🌱 I’m currently learning React<br><br>💬 Ask me about Aps.Net Core MVC <br><br>📫 How to reach me okancevik4105@gmail.com
 
