@@ -10,12 +10,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xHolland0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xHolland0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <a href="https://app.daily.dev/xholland"><img style="float=right" src="https://api.daily.dev/devcards/e4b7cbf425504219b1932306c5e0c867.png?r=pia" width="300" alt="Yusuf Okan Çevik's Dev Card"/></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xHolland41&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://app.daily.dev/xholland"><img style="float=right" src="https://api.daily.dev/devcards/e4b7cbf425504219b1932306c5e0c867.png?r=pia" width="300" alt="Yusuf Okan Çevik's Dev Card"/></a>
 
 
   ## 💰 You can help me by Donating
