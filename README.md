@@ -24,5 +24,4 @@
 
 
   
-https://gamma.app/docs/Untitled-p2kl838lgkyy5io
   
