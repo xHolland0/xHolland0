@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React<br><br>💬 Ask me about Asp.Net Core MVC <br><br>📫 How to reach me okancevik4105@gmail.com
+🌱 I’m currently learning React Native<br><br>💬 Ask me about Asp.Net Core MVC <br><br>📫 How to reach me okancevik4105@gmail.com
 
 
 ## 🌐 Socials:
