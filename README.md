@@ -10,7 +10,7 @@
 
 
 ## 📙 About the Ecboard:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xHolland0&repo=Ecboard&show_owner=true)](https://github.com/Eclion-Software/Ecboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eclion-Software&repo=Ecboard&showowner=true)](https://github.com/Eclion-Software/Ecboard)
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/x_Holland) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/x_Holland) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xHolland7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@x_holland) 
