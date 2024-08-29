@@ -1,5 +1,12 @@
-# 💫 About Me:
-🌱 I’m currently learning React Native<br><br>💬 Ask me about Asp.Net Core MVC <br><br>📫 How to reach me okancevik4105@gmail.com
+# 💫 About Me: 
+
+- 🔭 I’m currently working on [Ecboard](https://github.com/Eclion-Software/Ecboard)
+
+- 🌱 I’m currently learning **Flutter**
+
+- 💬 Ask me about **ASP.NET**
+
+- 📫 How to reach me **okancevik4105@gmail.com**
 
 
 ## 📙 About the Ecboard:
@@ -7,6 +14,15 @@
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/x_Holland) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/x_Holland) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xHolland7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@x_holland) 
+
+
+##  🦺 Eclion Software Community Discord:
+<div align="left">
+  <a href="https://discord.gg/9H9xbphxZb" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
 
 # 💻 Tech Stack:
 <div align="left">
@@ -43,22 +59,13 @@
 
 <a href="https://app.daily.dev/xholland"><img style="float=right" src="https://api.daily.dev/devcards/e4b7cbf425504219b1932306c5e0c867.png?r=pia" width="300" alt="Yusuf Okan Çevik's Dev Card"/></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xholland0&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xHolland0&theme=dark)](https://git.io/streak-stats)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xholland0&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="xholland0" /></p>
 
 
-
 ---
-[![](https://visitcount.itsvg.in/api?id=xHolland41&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/xHolland0/xHolland0/output/snake.svg" alt="Snake animation" />
-
-
 
 
 
@@ -66,8 +73,7 @@
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/okancevik46) 
 
+---
 
-
-
-
+[![](https://visitcount.itsvg.in/api?id=xHolland41&icon=0&color=0)](https://visitcount.itsvg.in)
 
