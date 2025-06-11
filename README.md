@@ -1,79 +1,60 @@
-# 💫 About Me: 
+# Hi there! I'm Yusuf Okan Çevik 👋
 
-- 🔭 I’m currently working on [Ecboard](https://github.com/Eclion-Software/Ecboard)
-
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **ASP.NET**
-
-- 📫 How to reach me **okancevik4105@gmail.com**
-
-
-## 📙 About the Ecboard:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eclion-Software&repo=Ecboard&showowner=true)](https://github.com/Eclion-Software/Ecboard)
-
-## 🌐 Socials:
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/x_Holland) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/x_Holland) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xHolland7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@x_holland) 
-
-
-##  🦺 Eclion Software Community Discord:
-<div align="left">
-  <a href="https://discord.gg/9H9xbphxZb" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-
-# 💻 Tech Stack:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="30" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
-</div>
-
-# 📊 GitHub Stats:
-
-<a href="https://app.daily.dev/xholland"><img style="float=right" src="https://api.daily.dev/devcards/e4b7cbf425504219b1932306c5e0c867.png?r=pia" width="300" alt="Yusuf Okan Çevik's Dev Card"/></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xholland0&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=xHolland0&theme=dark)](https://git.io/streak-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xholland0&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="xholland0" /></p>
-
+🎯 I'm a passionate developer and 3D enthusiast from Turkey. I work on web, mobile, and 3D Modelling & Animation — always striving to learn, build, and improve. Whether it's coding a CRM in ASP.NET or modeling environments in Blender, I love transforming ideas into working products.
 
 ---
 
-<img src="https://raw.githubusercontent.com/xHolland0/xHolland0/output/snake.svg" alt="Snake animation" />
-
-
-
-  ## 💰 You can help me by Donating
-
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/okancevik46) 
+## 🚀 About Me
+- 👨‍💻 Skilled in **C#**, **ASP.NET**, **SQL Server**, and **React Native**
+- 🎮 3D Model and animator using **Blender**
+- 🌐 I build responsive websites and dashboards using **HTML**, **CSS**, and **JavaScript**
+- 📱 I develop mobile apps with **React Native**
+- 📦 Currently working on: **Cargor** – a stylized space-themed cargo management game!
+- 📍 Based in Turkey
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=xHolland41&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🧰 Tech Stack
+<div>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+</div>
 
+---
+
+## 📊 GitHub Stats
+![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xHolland0&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xHolland0&layout=compact&theme=tokyonight)
+
+---
+
+## 🎮 Projects I'm Proud Of
+- 📦 **CARGOR** – Multiplayer game combining cargo delivery and management mechanics
+- 💼 **Ecboard CRM** – A modular, multi-feature business management platform
+- 📱 React Native mobile apps for real-time tracking and task management
+
+---
+
+## 📌 Goals for 2025
+- [x] Development started
+- [ ] Launch Ecboard CRM
+- [ ] Join or start an open-source project
+- [ ] Work with an international game studio
+
+---
+
+## 📫 Contact
+- 📧 `okan.cevik@eclionsoftware.com`
+- 💼 [LinkedIn]([https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/yusuf-okan-%C3%A7evik-893664289/))
+- 🎮 [Steam Page (ENVGUARD)](https://store.steampowered.com/app/ENVGUARD)
+- 🌐 [Portfolio Website]([https://yourwebsite.com](https://www.eclionsoftware.com/))
+
+---
+
+_“Code. Create. Repeat.”_
