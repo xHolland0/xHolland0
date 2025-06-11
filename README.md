@@ -51,9 +51,9 @@
 
 ## 📫 Contact
 - 📧 `okan.cevik@eclionsoftware.com`
-- 💼 [LinkedIn]([https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/yusuf-okan-%C3%A7evik-893664289/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/yusuf-okan-%C3%A7evik-893664289)
 - 🎮 [Steam Page (CARGOR)](https://store.steampowered.com/app/3797160)
-- 🌐 [Portfolio Website]([https://yourwebsite.com](https://www.eclionsoftware.com/))
+- 🌐 [Portfolio Website](https://eclionsoftware.com)
 
 ---
 
