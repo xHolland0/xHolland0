@@ -42,7 +42,7 @@
 ---
 
 ## 📌 Goals for 2025
-- [x] Development started
+- [x] Cargor Development started
 - [ ] Launch Ecboard CRM
 - [ ] Join or start an open-source project
 - [ ] Work with an international game studio
@@ -52,7 +52,7 @@
 ## 📫 Contact
 - 📧 `okan.cevik@eclionsoftware.com`
 - 💼 [LinkedIn]([https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/yusuf-okan-%C3%A7evik-893664289/))
-- 🎮 [Steam Page (ENVGUARD)](https://store.steampowered.com/app/ENVGUARD)
+- 🎮 [Steam Page (CARGOR)](https://store.steampowered.com/app/3797160)
 - 🌐 [Portfolio Website]([https://yourwebsite.com](https://www.eclionsoftware.com/))
 
 ---
