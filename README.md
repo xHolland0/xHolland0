@@ -54,7 +54,8 @@
 - 📧 `okan.cevik@eclionsoftware.com`
 - [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />](https://www.linkedin.com/in/yusuf-okan-%C3%A7evik-893664289)
 - [<img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" />](https://store.steampowered.com/curator/45645746/)
-- [<img src="https://senin-site.com/yuvarlak-badge.png" width="150"/>](https://eclionsoftware.com/)
+- [![Eclion Software](https://img.shields.io/badge/EclionSoftware-VisitSite-blue?style=flat&logo=google-chrome)](https://eclionsoftware.com/)
+
 
 
 
