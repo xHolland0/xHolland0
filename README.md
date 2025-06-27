@@ -16,14 +16,15 @@
 
 ## 🧰 Tech Stack
 <div>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white" />
 </div>
 
 ---
@@ -51,9 +52,9 @@
 
 ## 📫 Contact
 - 📧 `okan.cevik@eclionsoftware.com`
-- 💼 [LinkedIn](https://www.linkedin.com/in/yusuf-okan-%C3%A7evik-893664289)
-- 🎮 [Steam Page (CARGOR)](https://store.steampowered.com/app/3797160)
-- 🌐 [Portfolio Website](https://eclionsoftware.com)
+- [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />](https://www.linkedin.com/in/yusuf-okan-%C3%A7evik-893664289)
+- [<img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" />](https://store.steampowered.com/curator/45645746/)
+- [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)]([https://shields.io/](https://www.eclionsoftware.com/))
 
 ---
 
