@@ -9,7 +9,7 @@
 - 🎮 3D Model and animator using **Blender**
 - 🌐 I build responsive websites and dashboards using **HTML**, **CSS**, and **JavaScript**
 - 📱 I develop mobile apps with **React Native**
-- 📦 Currently working on: **Cargor** – a stylized space-themed cargo management game!
+- 📦 Currently working on: **Cargor** – a stylized themed cargo management game!
 - 📍 Based in Turkey
 
 ---
@@ -44,8 +44,8 @@
 
 ## 📌 Goals for 2025
 - [x] Cargor Development started
+- [x] Join or start an open-source project
 - [ ] Launch Ecboard CRM
-- [ ] Join or start an open-source project
 - [ ] Work with an international game studio
 
 ---
