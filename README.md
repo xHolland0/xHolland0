@@ -4,13 +4,13 @@
 
 ---
 
-## 🚀 About Me
-- 👨‍💻 Skilled in **C#**, **ASP.NET**, **SQL Server**, and **React Native**
-- 🎮 3D Model and animator using **Blender**
-- 🌐 I build responsive websites and dashboards using **HTML**, **CSS**, and **JavaScript**
-- 📱 I develop mobile apps with **React Native**
-- 📦 Currently working on: **Cargor** – a stylized themed cargo management game!
-- 📍 Based in Turkey
+##  About Me
+-  Skilled in **C#**, **ASP.NET**, **SQL Server**, and **React Native**
+-  3D Model and animator using **Blender**
+-  I build responsive websites and dashboards using **HTML**, **CSS**, and **JavaScript**
+-  I develop mobile apps with **React Native**
+-  Currently working on: **Cargor** – a stylized themed cargo management game!
+-  Based in Turkey
 
 ---
 
@@ -29,16 +29,10 @@
 
 ---
 
-## 📊 GitHub Stats
-![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xHolland0&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xHolland0&layout=compact&theme=tokyonight)
-
----
-
 ## 🎮 Projects I'm Proud Of
-- 📦 **CARGOR** – Multiplayer game combining cargo delivery and management mechanics
-- 💼 **Ecboard CRM** – A modular, multi-feature business management platform
-- 📱 React Native mobile apps for real-time tracking and task management
+- **CARGOR** – Multiplayer game combining cargo delivery and management mechanics
+- **Ecboard** – A modular, multi-feature business management platform
+- React Native mobile apps for real-time tracking and task management
 
 ---
 
